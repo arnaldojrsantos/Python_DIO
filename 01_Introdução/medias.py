@@ -13,7 +13,7 @@ if mp == ma:
 
 elif mp > ma:
     print(f'Sua média PONDERADA é {mp:.2f}. e sua média ARITIMÉTICA é {ma:.2f}\n'
-          f'{mp} é maior que {ma}.')
+          f'{mp:.2f} é maior que {ma:.2f}.')
 else:
     print(f'Sua média PONDERADA é {mp:.2f}. e sua média ARITIMÉTICA é {ma:.2f}\n'
-          f'{ma} é maior que {mp}.')
+          f'{ma:.2f} é maior que {mp:.2f}.')
